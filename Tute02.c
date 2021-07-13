@@ -30,7 +30,7 @@ int main() {
   {
     amount = distance * 50;
   }
-  printf("Amount = ", amount);
+  printf("Amount = %d", amount);
   
   
   return 0;
